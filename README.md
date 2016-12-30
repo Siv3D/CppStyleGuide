@@ -1,2 +1,2 @@
-# CppStyleGuide
-Siv3D C++ Style Guide
+# Siv3D C++ Style Guide
+
